@@ -6,3 +6,8 @@ set(CMAKE_CXX_STANDARD 20)
 add_subdirectory(src/l1)
 add_subdirectory(src/l2)
 add_subdirectory(src/l3)
+
+add_subdirectory(src/p1)
+add_subdirectory(src/p2)
+add_subdirectory(src/p3)
+add_subdirectory(src/p4)
